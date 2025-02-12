@@ -1,0 +1,76 @@
+﻿  Mazerunner.cpp
+C:\Users\Nicolas\Desktop\Games\Mazerunner\Mazerunner.cpp(257,17): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Nicolas\Desktop\Games\Mazerunner\Mazerunner.cpp(259,20): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Nicolas\Desktop\Games\Mazerunner\Mazerunner.cpp(266,32): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Nicolas\Desktop\Games\Mazerunner\Mazerunner.cpp(284,27): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Nicolas\Desktop\Games\Mazerunner\Mazerunner.cpp(291,70): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Nicolas\Desktop\Games\Mazerunner\Mazerunner.cpp(291,36): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Nicolas\Desktop\Games\Mazerunner\Mazerunner.cpp(294,136): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Nicolas\Desktop\Games\Mazerunner\Mazerunner.cpp(297,121): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Nicolas\Desktop\Games\Mazerunner\Mazerunner.cpp(304,31): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Nicolas\Desktop\Games\Mazerunner\Mazerunner.cpp(311,71): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Nicolas\Desktop\Games\Mazerunner\Mazerunner.cpp(311,40): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Nicolas\Desktop\Games\Mazerunner\Mazerunner.cpp(314,139): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Nicolas\Desktop\Games\Mazerunner\Mazerunner.cpp(317,128): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Nicolas\Desktop\Games\Mazerunner\Mazerunner.cpp(333,17): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Nicolas\Desktop\Games\Mazerunner\Mazerunner.cpp(335,20): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Nicolas\Desktop\Games\Mazerunner\Mazerunner.cpp(342,48): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Nicolas\Desktop\Games\Mazerunner\Mazerunner.cpp(360,43): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Nicolas\Desktop\Games\Mazerunner\Mazerunner.cpp(367,74): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Nicolas\Desktop\Games\Mazerunner\Mazerunner.cpp(367,39): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Nicolas\Desktop\Games\Mazerunner\Mazerunner.cpp(370,141): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Nicolas\Desktop\Games\Mazerunner\Mazerunner.cpp(373,127): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Nicolas\Desktop\Games\Mazerunner\Mazerunner.cpp(380,46): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Nicolas\Desktop\Games\Mazerunner\Mazerunner.cpp(387,74): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Nicolas\Desktop\Games\Mazerunner\Mazerunner.cpp(387,44): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Nicolas\Desktop\Games\Mazerunner\Mazerunner.cpp(390,145): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Nicolas\Desktop\Games\Mazerunner\Mazerunner.cpp(393,130): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Nicolas\Desktop\Games\Mazerunner\Mazerunner.cpp(409,17): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Nicolas\Desktop\Games\Mazerunner\Mazerunner.cpp(411,20): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Nicolas\Desktop\Games\Mazerunner\Mazerunner.cpp(418,32): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Nicolas\Desktop\Games\Mazerunner\Mazerunner.cpp(436,27): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Nicolas\Desktop\Games\Mazerunner\Mazerunner.cpp(443,70): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Nicolas\Desktop\Games\Mazerunner\Mazerunner.cpp(443,36): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Nicolas\Desktop\Games\Mazerunner\Mazerunner.cpp(446,120): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Nicolas\Desktop\Games\Mazerunner\Mazerunner.cpp(449,140): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Nicolas\Desktop\Games\Mazerunner\Mazerunner.cpp(456,31): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Nicolas\Desktop\Games\Mazerunner\Mazerunner.cpp(463,72): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Nicolas\Desktop\Games\Mazerunner\Mazerunner.cpp(463,40): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Nicolas\Desktop\Games\Mazerunner\Mazerunner.cpp(466,124): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Nicolas\Desktop\Games\Mazerunner\Mazerunner.cpp(469,144): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Nicolas\Desktop\Games\Mazerunner\Mazerunner.cpp(485,17): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Nicolas\Desktop\Games\Mazerunner\Mazerunner.cpp(487,20): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Nicolas\Desktop\Games\Mazerunner\Mazerunner.cpp(494,47): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Nicolas\Desktop\Games\Mazerunner\Mazerunner.cpp(512,51): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Nicolas\Desktop\Games\Mazerunner\Mazerunner.cpp(519,74): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Nicolas\Desktop\Games\Mazerunner\Mazerunner.cpp(519,39): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Nicolas\Desktop\Games\Mazerunner\Mazerunner.cpp(522,122): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Nicolas\Desktop\Games\Mazerunner\Mazerunner.cpp(525,141): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Nicolas\Desktop\Games\Mazerunner\Mazerunner.cpp(532,42): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Nicolas\Desktop\Games\Mazerunner\Mazerunner.cpp(539,75): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Nicolas\Desktop\Games\Mazerunner\Mazerunner.cpp(539,44): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Nicolas\Desktop\Games\Mazerunner\Mazerunner.cpp(542,125): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Nicolas\Desktop\Games\Mazerunner\Mazerunner.cpp(545,146): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Nicolas\Desktop\Games\Mazerunner\Mazerunner.cpp(562,21): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Nicolas\Desktop\Games\Mazerunner\Mazerunner.cpp(560,13): warning C4101: 'stack': unreferenced local variable
+C:\Users\Nicolas\Desktop\Games\Mazerunner\Mazerunner.cpp(662,34): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Nicolas\Desktop\Games\Mazerunner\Mazerunner.cpp(662,20): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Nicolas\Desktop\Games\Mazerunner\Mazerunner.cpp(740,18): warning C4305: '=': truncation from 'int' to 'char'
+C:\Users\Nicolas\Desktop\Games\Mazerunner\Mazerunner.cpp(740,18): warning C4309: '=': truncation of constant value
+C:\Users\Nicolas\Desktop\Games\Mazerunner\Mazerunner.cpp(759,30): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Nicolas\Desktop\Games\Mazerunner\Mazerunner.cpp(760,19): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Nicolas\Desktop\Games\Mazerunner\Mazerunner.cpp(773,30): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Nicolas\Desktop\Games\Mazerunner\Mazerunner.cpp(791,28): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Nicolas\Desktop\Games\Mazerunner\Mazerunner.cpp(877,28): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Nicolas\Desktop\Games\Mazerunner\Mazerunner.cpp(887,28): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Nicolas\Desktop\Games\Mazerunner\Mazerunner.cpp(985,42): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Nicolas\Desktop\Games\Mazerunner\Mazerunner.cpp(985,28): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Nicolas\Desktop\Games\Mazerunner\Mazerunner.cpp(1002,42): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Nicolas\Desktop\Games\Mazerunner\Mazerunner.cpp(1002,28): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Nicolas\Desktop\Games\Mazerunner\Mazerunner.cpp(1025,23): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Nicolas\Desktop\Games\Mazerunner\Mazerunner.cpp(1088,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Generating code
+  Previous IPDB and IOBJ mismatch, fall back to full compilation.
+  All 91 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Mazerunner.vcxproj -> C:\Users\Nicolas\Desktop\Games\Mazerunner\x64\Release\Mazerunner.exe

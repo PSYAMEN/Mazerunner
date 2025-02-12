@@ -1,0 +1,14 @@
+﻿  Mazerunner.cpp
+C:\Users\Nicolas\Desktop\Games\Mazerunner\Mazerunner.cpp(258,17): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Nicolas\Desktop\Games\Mazerunner\Mazerunner.cpp(299,17): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Nicolas\Desktop\Games\Mazerunner\Mazerunner.cpp(340,17): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Nicolas\Desktop\Games\Mazerunner\Mazerunner.cpp(381,17): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Nicolas\Desktop\Games\Mazerunner\Mazerunner.cpp(422,21): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Nicolas\Desktop\Games\Mazerunner\Mazerunner.cpp(420,13): warning C4101: 'stack': unreferenced local variable
+C:\Users\Nicolas\Desktop\Games\Mazerunner\Mazerunner.cpp(522,34): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Nicolas\Desktop\Games\Mazerunner\Mazerunner.cpp(522,20): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Nicolas\Desktop\Games\Mazerunner\Mazerunner.cpp(600,18): warning C4305: '=': truncation from 'int' to 'char'
+C:\Users\Nicolas\Desktop\Games\Mazerunner\Mazerunner.cpp(600,18): warning C4309: '=': truncation of constant value
+C:\Users\Nicolas\Desktop\Games\Mazerunner\Mazerunner.cpp(710,23): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Nicolas\Desktop\Games\Mazerunner\Mazerunner.cpp(758,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Mazerunner.vcxproj -> C:\Users\Nicolas\Desktop\Games\Mazerunner\x64\Debug\Mazerunner.exe
